@@ -1,0 +1,22 @@
+{
+  "name": "practice-cypress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vinandros/practice-cypress.git"
+  },
+  "author": "Kevin Alvarado V",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vinandros/practice-cypress/issues"
+  },
+  "homepage": "https://github.com/vinandros/practice-cypress#readme",
+  "devDependencies": {
+    "cypress": "^5.6.0"
+  }
+}
